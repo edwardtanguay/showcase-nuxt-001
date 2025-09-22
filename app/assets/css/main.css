@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+body {
+	a.router-link-active {
+		color: rgb(250, 250, 99);
+	}
+}
