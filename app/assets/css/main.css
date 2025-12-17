@@ -5,4 +5,9 @@ body {
 	a.router-link-active {
 		color: rgb(250, 184, 99);
 	}
+
+	form .text-error {
+		@apply text-red-500 dark:text-red-800 text-sm;
+	}
+
 }

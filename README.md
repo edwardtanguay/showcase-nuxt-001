@@ -1,6 +1,6 @@
 # showcase-nuxt-001
 
-![showcase-nuxt-001](https://github.com/user-attachments/assets/f2f731a8-3eeb-4894-8ee2-ac6b4da63f6d)
+<img width="1442" height="854" alt="grafik" src="https://github.com/user-attachments/assets/23cd7515-0460-485b-9dbe-9b2bfd420b23" />
 
 This is a showcase site for Nuxt 4.
 
