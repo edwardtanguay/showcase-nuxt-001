@@ -70,6 +70,9 @@ const isValid = computed(() => {
 </script>
 
 <template>
+	<ul class="list-disc ml-6 mb-3">
+		<li>this form uses Nuxt UI for the form components and Zod for validation</li>
+	</ul>
 	<div
 		class="max-w-md mx-auto mt-8 p-6 bg-slate-300 dark:bg-slate-950 text-slate-900 dark:text-slate-100 rounded-md shadow-md"
 	>
